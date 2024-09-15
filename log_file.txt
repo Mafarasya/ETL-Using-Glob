@@ -1,0 +1,75 @@
+2024-Sep-15-02:00:51, ETL Job Started
+2024-Sep-15-02:00:51, Extract Phase Started
+2024-Sep-15-02:10:47, ETL Job Started
+2024-Sep-15-02:10:47, Extract Phase Started
+2024-Sep-15-02:11:56, ETL Job Started
+2024-Sep-15-02:11:56, Extract Phase Started
+2024-Sep-15-02:12:31, ETL Job Started
+2024-Sep-15-02:12:31, Extract Phase Started
+2024-Sep-15-02:15:00, ETL Job Started
+2024-Sep-15-02:15:00, Extract Phase Started
+2024-Sep-15-02:15:45, ETL Job Started
+2024-Sep-15-02:15:45, Extract Phase Started
+2024-Sep-15-02:16:40, ETL Job Started
+2024-Sep-15-02:16:40, Extract Phase Started
+2024-Sep-15-02:16:40, Error reading JSON file source1.json: Trailing data
+2024-Sep-15-02:16:40, Error reading JSON file source3.json: Trailing data
+2024-Sep-15-02:16:40, Error reading JSON file source2.json: Trailing data
+2024-Sep-15-02:16:40, Extract Phase Ended
+2024-Sep-15-02:16:40, Transformation Phase Started
+2024-Sep-15-02:19:34, ETL Job Started
+2024-Sep-15-02:19:34, Extract Phase Started
+2024-Sep-15-02:19:43, ETL Job Started
+2024-Sep-15-02:19:43, Extract Phase Started
+2024-Sep-15-02:20:50, ETL Job Started
+2024-Sep-15-02:20:50, Extract Phase Started
+2024-Sep-15-02:21:50, ETL Job Started
+2024-Sep-15-02:21:50, Extract Phase Started
+2024-Sep-15-02:22:16, ETL Job Started
+2024-Sep-15-02:22:16, Extract Phase Started
+2024-Sep-15-02:22:16, Error reading JSON file source1.json: Trailing data
+2024-Sep-15-02:22:16, Error reading JSON file source3.json: Trailing data
+2024-Sep-15-02:22:16, Error reading JSON file source2.json: Trailing data
+2024-Sep-15-02:22:16, Extract Phase Ended
+2024-Sep-15-02:22:16, Transformation Phase Started
+2024-Sep-15-02:22:53, ETL Job Started
+2024-Sep-15-02:22:53, Extract Phase Started
+2024-Sep-15-02:22:53, Error reading JSON file source1.json: Trailing data
+2024-Sep-15-02:22:53, Error reading JSON file source3.json: Trailing data
+2024-Sep-15-02:22:53, Error reading JSON file source2.json: Trailing data
+2024-Sep-15-02:22:53, Extract Phase Ended
+2024-Sep-15-02:22:53, Transformation Phase Started
+2024-Sep-15-02:25:34, ETL Job Started
+2024-Sep-15-02:25:34, Extract Phase Started
+2024-Sep-15-02:28:16, ETL Job Started
+2024-Sep-15-02:28:16, Extract Phase Started
+2024-Sep-15-02:28:16, Extract Phase Ended
+2024-Sep-15-02:28:16, Transformation Phase Started
+2024-Sep-15-02:28:54, ETL Job Started
+2024-Sep-15-02:28:54, Extract Phase Started
+2024-Sep-15-02:28:54, Extract Phase Ended
+2024-Sep-15-02:28:54, Transformation Phase Started
+2024-Sep-15-02:30:16, ETL Job Started
+2024-Sep-15-02:30:16, Extract Phase Started
+2024-Sep-15-02:30:16, Extract Phase Ended
+2024-Sep-15-02:30:16, Transformation Phase Started
+2024-Sep-15-02:30:16, Transformation Phase Ended
+2024-Sep-15-02:30:16, Load Phase Started
+2024-Sep-15-02:30:16, Load Phase Ended
+2024-Sep-15-02:30:16, ETL Job Ended
+2024-Sep-15-02:31:19, ETL Job Started
+2024-Sep-15-02:31:19, Extract Phase Started
+2024-Sep-15-02:31:19, Extract Phase Ended
+2024-Sep-15-02:31:19, Transformation Phase Started
+2024-Sep-15-02:31:19, Transformation Phase Ended
+2024-Sep-15-02:31:19, Load Phase Started
+2024-Sep-15-02:31:19, Load Phase Ended
+2024-Sep-15-02:31:19, ETL Job Ended
+2024-Sep-15-02:31:46, ETL Job Started
+2024-Sep-15-02:31:46, Extract Phase Started
+2024-Sep-15-02:31:46, Extract Phase Ended
+2024-Sep-15-02:31:46, Transformation Phase Started
+2024-Sep-15-02:31:46, Transformation Phase Ended
+2024-Sep-15-02:31:46, Load Phase Started
+2024-Sep-15-02:31:46, Load Phase Ended
+2024-Sep-15-02:31:46, ETL Job Ended
